@@ -57,3 +57,10 @@ No private customer data or credentials are needed for this demonstration. Custo
 work would use an anonymized sample first. Code is AI-assisted and is executed and
 tested by the assistant; no independent human review or past client history is
 claimed.
+
+## Contact
+
+Preferred contact: **Gmail — [changzhenming123@gmail.com](mailto:changzhenming123@gmail.com)**.
+Please include an anonymized input/output example and the rules you need.
+
+Backup: [GitHub @changzhenming123-crypto](https://github.com/changzhenming123-crypto).
