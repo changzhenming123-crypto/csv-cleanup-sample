@@ -64,3 +64,11 @@ Preferred contact: **Gmail — [changzhenming123@gmail.com](mailto:changzhenming
 Please include an anonymized input/output example and the rules you need.
 
 Backup: [GitHub @changzhenming123-crypto](https://github.com/changzhenming123-crypto).
+
+## Personal purpose
+
+This sample and service offer are intended to automate authorized data cleanup
+and earn an agreed fee through legitimate software-development work. They are
+not intended to facilitate money laundering, fraud, theft, or other unlawful
+activity. Customer work is limited to the functionality and permitted data use
+agreed for that task.
