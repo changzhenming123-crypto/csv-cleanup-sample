@@ -1,0 +1,23 @@
+{
+  "input_file": "messy_contacts.csv",
+  "input_sha256": "23b193256f85937cae7a1fbe9ea92e4e24633b4b51c118083895ef55c4bd70ee",
+  "columns": [
+    "id",
+    "name",
+    "email",
+    "city"
+  ],
+  "required_columns": [
+    "id",
+    "email"
+  ],
+  "unique_by": [
+    "id"
+  ],
+  "processed": 10,
+  "accepted": 6,
+  "invalid": 3,
+  "duplicates": 1,
+  "blank_records": 0,
+  "trimmed_records": 1
+}

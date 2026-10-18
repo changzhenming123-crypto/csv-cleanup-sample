@@ -1,0 +1,11 @@
+id,name,email,city
+ 1 , Alice , alice@example.com , London
+2,Bob,bob@example.com,Paris
+2,Bob duplicate,bob2@example.com,Paris
+3,"Chen, Li",chen@example.com,北京
+4,Missing email,,Rome
+5,Dana,dana@example.com,Berlin
+6,Wrong columns,six@example.com,Rome,EXTRA
+7,Elena,elena@example.com,Madrid
+8,Finn,finn@example.com,Dublin
+,No ID,noid@example.com,Oslo

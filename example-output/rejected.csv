@@ -1,0 +1,5 @@
+_source_record,_reason,_raw_fields
+4,duplicate,"[""2"", ""Bob duplicate"", ""bob2@example.com"", ""Paris""]"
+6,missing_required: email,"[""4"", ""Missing email"", """", ""Rome""]"
+8,"column_count: expected 4, received 5","[""6"", ""Wrong columns"", ""six@example.com"", ""Rome"", ""EXTRA""]"
+11,missing_required: id,"["""", ""No ID"", ""noid@example.com"", ""Oslo""]"
